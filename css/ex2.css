@@ -65,13 +65,14 @@ nav a:hover{
 .hero{
     position: relative;
     width: 100%;
-    height: 800px;
+    height: 60%;
     overflow: hidden;
+    object-position: top; 
 }
 
 .hero img{
     width: 100%;
-    height: 100%; 
+    height: 60%; 
     object-fit: cover;
     object-position: bottom; 
 }
